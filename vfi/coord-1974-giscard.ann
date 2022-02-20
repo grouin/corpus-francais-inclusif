@@ -1,0 +1,5 @@
+T1	Lieu 49 59	Martinique
+T2	Inclusif 0 28	Martiniquaises, Martiniquais
+T3	Inclusif 148 186	les Martiniquaises et les Martiniquais
+A1	procede T2 coordination
+A2	procede T3 coordination

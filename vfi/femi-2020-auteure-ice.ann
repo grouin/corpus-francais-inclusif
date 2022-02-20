@@ -1,0 +1,9 @@
+T1	Personne 0 14	Giorgia Marras
+T2	Personne 41 55	Giorgia Marras
+T3	Ville 111 116	Gênes
+T4	Lieu 120 126	Italie
+T5	Date 131 135	1988
+T6	Inclusif 22 29	autrice
+T7	Inclusif 74 81	auteure
+A1	procede T6 feminisation
+A2	procede T7 feminisation

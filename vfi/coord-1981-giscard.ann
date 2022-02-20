@@ -1,0 +1,31 @@
+T1	Ville 243 248	Lille
+T2	Lieu 320 333	Pas-de-Calais
+T3	Date 1061 1065	1944
+T4	Date 1066 1068	45
+T5	Lieu 1339 1352	Bassin minier
+T6	Lieu 1504 1517	Pas-de-Calais
+T7	Lieu 1667 1673	France
+T8	Inclusif 16 30	celles et ceux
+T9	Inclusif 55 69	celles et ceux
+T10	Inclusif 336 366	Les Françaises et les Français
+T11	Inclusif 494 554	à toutes les jeunes Françaises et à tous les jeunes Français
+T12	Inclusif 820 853	des Américaines et des Américains
+T13	Inclusif 936 963	l'Américaine ou l'Américain
+T14	Inclusif 1219 1249	des Françaises et des Français
+T15	Inclusif 1274 1307	des Américaines et des Américains
+A1	procede T8 coordination
+A2	procede T9 coordination
+A3	procede T10 coordination
+A4	procede T11 coordination
+A5	procede T12 coordination
+A6	procede T13 coordination
+A7	procede T14 coordination
+A8	procede T15 coordination
+T16	Inclusif 856 908	la consommatrice française, le consommateur français
+A9	procede T16 coordination
+T17	Inclusif 1311 1335	Aux femmes et aux hommes
+A10	procede T17 coordination
+T18	Inclusif 1476 1500	les femmes et les hommes
+A11	procede T18 coordination
+T19	Inclusif 1527 1551	des hommes et des femmes
+A12	procede T19 coordination

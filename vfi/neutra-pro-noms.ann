@@ -1,0 +1,9 @@
+T1	Inclusif 0 4	Touz
+T2	Inclusif 9 16	députæs
+T3	Inclusif 20 30	sénataires
+A1	procede T1 neutralisation
+A2	procede T2 neutralisation
+A3	procede T3 neutralisation
+#1	AnnotatorNotes T1	Toutes et tous
+#2	AnnotatorNotes T2	députés
+#3	AnnotatorNotes T3	sénateurs et sénatrices

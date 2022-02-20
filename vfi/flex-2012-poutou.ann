@@ -1,0 +1,8 @@
+T1	Inclusif 4 17	transexuel/es
+T2	Inclusif 182 195	intersexué/es
+T3	Inclusif 216 225	mutilé/es
+T4	Inclusif 375 386	étudiant/es
+A1	procede T1 flexion
+A2	procede T2 flexion
+A3	procede T3 flexion
+A4	procede T4 flexion

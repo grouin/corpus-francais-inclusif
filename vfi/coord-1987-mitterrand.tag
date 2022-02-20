@@ -1,0 +1,5 @@
+Monsieur le Président, <Inclusif>mesdames et messieurs</Inclusif> les parlementaires, je ne pourrais terminer autrement qu'en vous disant ma joie de voir le <Lieu>Portugal</Lieu>, une de nos plus anciennes nations d'<Lieu>Europe</Lieu>, une de celles qui ont le plus contribué à porter au-delà des océans le génie de la culture, associé pleinement, avec détermination et ferveur à cette oeuvre qui, si elle aboutit où nous voulons la conduire, justifiera je crois notre existence et notre rôle aux yeux des générations futures : l'édification d'une <Lieu>Europe</Lieu> libre, espérons-le prospère, en tout cas solidaire, en tout cas pacifique.
+
+Je n'aurai garde, enfin, d'oublier que, dans la cohorte <Inclusif>de femmes et des hommes</Inclusif>, glorieux ou anonymes, qui font l'<Lieu>Europe</Lieu> au quotidien, il y a ces communautés qualifiées aujourd'hui d'émigrées et dont on dira demain qu'ils préfiguraient, par leur capacité à s'insérer dans un autre environnement, l'homme européen nouveau.
+
+https://www.vie-publique.fr/discours/139776-discours-de-m-francois-mitterrand-president-de-la-republique-devant-l

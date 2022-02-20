@@ -1,0 +1,9 @@
+T1	Date 51 68	26 septembre 2005
+T2	Personne 74 82	Charlier
+T3	Personne 84 110	Dominique, Thérèse, Marthe
+T4	Personne 120 126	Dagras
+T5	Date 367 383	1er octobre 2005
+T6	Inclusif 151 172	lieutenante-colonelle
+T7	Inclusif 187 196	officière
+A1	procede T6 feminisation
+A2	procede T7 feminisation
