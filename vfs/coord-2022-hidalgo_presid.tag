@@ -1,0 +1,1 @@
+Cette République qui donne sa chance à tous, à moi, fille d'<Profession>ouvriers</Profession> <Gentile>espagnols</Gentile> arrivée à <Age>2 ans</Age> en <Lieu type="pays">France</Lieu> parce que ma famille fuyait la dictature franquiste et la misère.

@@ -1,1 +1,1 @@
-Les premiers romans des écrivains sont rarement appréciés des critiques
+Les premiers romans des <Profession>écrivains</Profession> sont rarement appréciés des <Profession>critiques</Profession>

@@ -1,1 +1,1 @@
-Les premiers romans des <Inclusif>écrivans</Inclusif> sont rarement <Inclusif>appréciæs</Inclusif> des critiques
+Les premiers romans des <Inclusif procede="neutralisation">écrivans</Inclusif> sont rarement <Inclusif procede="neutralisation">appréciæs</Inclusif> des critiques
