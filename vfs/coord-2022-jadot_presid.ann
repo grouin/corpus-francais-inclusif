@@ -1,0 +1,9 @@
+T1	Gentile 121 129	Français
+T2	Profession 191 201	infirmiers
+T3	Date 250 254	1990
+T4	Lieu 278 291	Burkina Fasso
+A1	type T4 pays
+T5	Profession 311 318	paysans
+T6	Organisation 346 349	FMI
+T7	Lieu 359 369	Bengladesh
+A2	type T7 pays

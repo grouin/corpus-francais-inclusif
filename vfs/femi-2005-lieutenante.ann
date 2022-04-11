@@ -3,3 +3,7 @@ T2	Personne 74 82	Charlier
 T3	Personne 84 110	Dominique, Thérèse, Marthe
 T4	Personne 120 126	Dagras
 T5	Date 363 379	1er octobre 2005
+T6	Fonction 17 39	ministre de la défense
+A1	role T2 autre
+A2	role T3 autre
+A3	role T4 autre

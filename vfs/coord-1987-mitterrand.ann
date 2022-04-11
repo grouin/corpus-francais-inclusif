@@ -2,3 +2,10 @@ T1	Lieu 502 508	Europe
 T2	Lieu 136 144	Portugal
 T3	Lieu 182 188	Europe
 T4	Lieu 699 705	Europe
+T5	Fonction 12 21	Président
+A1	type T2 pays
+T6	Fonction 49 63	parlementaires
+A2	type T3 continent
+A3	type T1 continent
+A4	type T4 continent
+T7	Gentile 889 897	européen

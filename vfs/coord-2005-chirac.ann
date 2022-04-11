@@ -3,3 +3,17 @@ T2	Lieu 583 589	Europe
 T3	Lieu 626 632	Europe
 T4	Lieu 647 653	Europe
 T5	Lieu 668 674	Europe
+T6	Gentile 18 28	Françaises
+T7	Gentile 36 44	Français
+T8	Gentile 178 186	Français
+T9	Gentile 199 208	Européens
+T10	Gentile 287 295	européen
+T11	Gentile 297 305	français
+T12	Profession 352 360	ouvriers
+T13	Profession 364 374	compagnons
+T14	Profession 376 386	ingénieurs
+T15	Profession 390 401	techniciens
+A1	type T2 continent
+A2	type T3 continent
+A3	type T4 continent
+A4	type T5 continent

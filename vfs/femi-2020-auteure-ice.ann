@@ -3,3 +3,10 @@ T2	Personne 40 54	Giorgia Marras
 T3	Ville 109 114	Gênes
 T4	Lieu 118 124	Italie
 T5	Date 129 133	1988
+T6	Profession 22 28	auteur
+T7	Gentile 29 38	italienne
+T8	Profession 56 69	illustratrice
+T9	Profession 73 79	auteur
+A1	type T4 pays
+A2	role T1 autre
+A3	role T2 autre

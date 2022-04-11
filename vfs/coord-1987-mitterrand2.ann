@@ -1,1 +1,4 @@
 T1	Lieu 123 129	France
+T2	Profession 16 27	enseignants
+T3	Profession 33 44	professeurs
+A1	type T1 pays

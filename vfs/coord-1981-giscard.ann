@@ -5,3 +5,21 @@ T4	Date 1046 1048	45
 T5	Lieu 1319 1332	Bassin minier
 T6	Lieu 1484 1497	Pas-de-Calais
 T7	Lieu 1647 1653	France
+A1	type T2 region
+T8	Gentile 320 330	Françaises
+T9	Gentile 338 346	Français
+T10	Gentile 494 504	Françaises
+T11	Gentile 526 534	Français
+T12	Gentile 804 815	Américaines
+T13	Gentile 823 833	Américains
+T14	Gentile 853 862	française
+T15	Gentile 880 888	français
+T16	Gentile 918 928	Américaine
+T17	Gentile 934 943	Américain
+T18	Gentile 1203 1213	Françaises
+T19	Gentile 1221 1229	Français
+T20	Gentile 1258 1269	Américaines
+T21	Gentile 1277 1287	Américains
+A2	type T5 region
+A3	type T6 region
+A4	type T7 pays
