@@ -1,0 +1,22 @@
+T1	Inclusif 33 41	chacun·e
+A1	procede T1 flexion
+T2	Inclusif 246 257	salarié·e·s
+A2	procede T2 flexion
+T3	Inclusif 343 362	agriculteurs·trices
+A3	procede T3 flexion
+T4	Inclusif 428 447	agriculteurs·trices
+A4	procede T4 flexion
+T5	Inclusif 478 483	élu·e
+A5	procede T5 flexion
+T6	Inclusif 531 538	élu·e·s
+A6	procede T6 flexion
+T7	Inclusif 609 633	tou·te·s les migrant·e·s
+A7	procede T7 flexion
+T8	Inclusif 658 670	étranger·e·s
+A8	procede T8 flexion
+T9	Lieu 683 689	France
+A9	type T9 pays
+T10	Profession 343 362	agriculteurs·trices
+T11	Profession 428 447	agriculteurs·trices
+T12	Fonction 478 483	élu·e
+T13	Fonction 531 538	élu·e·s

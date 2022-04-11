@@ -7,3 +7,10 @@ T6	Inclusif 22 29	autrice
 T7	Inclusif 74 81	auteure
 A1	procede T6 feminisation
 A2	procede T7 feminisation
+A3	role T1 autre
+A4	role T2 autre
+A5	type T4 pays
+T8	Profession 22 29	autrice
+T9	Profession 57 70	illustratrice
+T10	Profession 74 81	auteure
+T11	Gentile 30 39	italienne

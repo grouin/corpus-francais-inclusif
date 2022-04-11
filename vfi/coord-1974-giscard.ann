@@ -3,3 +3,9 @@ T2	Inclusif 0 28	Martiniquaises, Martiniquais
 T3	Inclusif 148 186	les Martiniquaises et les Martiniquais
 A1	procede T2 coordination
 A2	procede T3 coordination
+A3	type T1 pays
+T4	Fonction 217 243	President de la République
+T5	Gentile 152 166	Martiniquaises
+T6	Gentile 174 186	Martiniquais
+T7	Gentile 0 14	Martiniquaises
+T8	Gentile 16 28	Martiniquais

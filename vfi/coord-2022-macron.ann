@@ -3,3 +3,7 @@ T2	Inclusif 227 249	Françaises et Français
 T3	Inclusif 151 175	Européennes et Européens
 A1	procede T2 coordination
 A2	procede T3 coordination
+T4	Gentile 151 162	Européennes
+T5	Gentile 166 175	Européens
+T6	Gentile 227 237	Françaises
+T7	Gentile 241 249	Français

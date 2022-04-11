@@ -1,3 +1,6 @@
 T1	Lieu 133 139	France
 T2	Inclusif 46 60	celles et ceux
 A1	procede T2 coordination
+A2	type T1 pays
+T3	Profession 16 27	enseignants
+T4	Profession 33 44	professeurs

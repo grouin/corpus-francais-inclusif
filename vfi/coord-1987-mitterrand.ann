@@ -6,3 +6,10 @@ T5	Inclusif 23 44	mesdames et messieurs
 A1	procede T5 coordination
 T6	Inclusif 641 664	de femmes et des hommes
 A2	procede T6 coordination
+A3	type T1 pays
+T7	Fonction 12 21	Président
+T8	Fonction 49 63	parlementaires
+A4	type T2 continent
+A5	type T3 continent
+A6	type T4 continent
+T9	Gentile 889 897	européen

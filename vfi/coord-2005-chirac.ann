@@ -11,3 +11,17 @@ T8	Inclusif 352 380	à vous toutes et à vous tous
 A3	procede T8 coordination
 T9	Inclusif 605 619	toutes et tous
 A4	procede T9 coordination
+T10	Profession 382 390	ouvriers
+T11	Profession 394 404	compagnons
+T12	Profession 406 416	ingénieurs
+T13	Profession 420 431	techniciens
+T14	Gentile 18 28	Françaises
+T15	Gentile 36 44	Français
+T16	Gentile 178 186	Français
+T17	Gentile 199 208	Européens
+T18	Gentile 310 318	français
+A5	type T2 continent
+A6	type T3 continent
+A7	type T4 continent
+A8	type T5 continent
+T19	Gentile 300 308	européen

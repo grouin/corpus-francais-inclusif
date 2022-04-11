@@ -1,0 +1,11 @@
+T1	Inclusif 0 27	Travailleuses, travailleurs
+A1	procede T1 coordination
+T2	Date 32 42	avril 2020
+T3	Personne 76 82	Macron
+A2	role T3 autre
+T4	Inclusif 150 166	à celles et ceux
+A3	procede T4 coordination
+T5	Inclusif 248 269	de femmes et d'hommes
+A4	procede T5 coordination
+T6	Inclusif 383 404	de femmes et d'hommes
+A5	procede T6 coordination

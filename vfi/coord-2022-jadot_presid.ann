@@ -1,0 +1,20 @@
+T1	Inclusif 0 16	Madame, Monsieur
+A1	procede T1 coordination
+T2	Inclusif 118 146	de Françaises et de Français
+A2	procede T2 coordination
+T3	Inclusif 208 233	infirmiers et infirmières
+A3	procede T3 coordination
+T4	Date 282 286	1990
+T5	Lieu 310 323	Burkina Fasso
+T6	Inclusif 339 363	les paysannes et paysans
+A4	procede T6 coordination
+T7	Organisation 391 394	FMI
+T8	Lieu 404 414	Bengladesh
+A5	type T5 pays
+A6	type T8 pays
+T9	Profession 208 218	infirmiers
+T10	Profession 222 233	infirmières
+T11	Profession 343 352	paysannes
+T12	Profession 356 363	paysans
+T13	Gentile 121 131	Françaises
+T14	Gentile 138 146	Français

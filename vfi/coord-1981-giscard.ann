@@ -29,3 +29,21 @@ T18	Inclusif 1476 1500	les femmes et les hommes
 A11	procede T18 coordination
 T19	Inclusif 1527 1551	des hommes et des femmes
 A12	procede T19 coordination
+A13	type T7 pays
+A14	type T2 region
+T20	Gentile 340 350	Françaises
+T21	Gentile 358 366	Français
+T22	Gentile 514 524	Françaises
+T23	Gentile 546 554	Français
+T24	Gentile 824 835	Américaines
+T25	Gentile 843 853	Américains
+T26	Gentile 873 882	française
+T27	Gentile 900 908	français
+T28	Gentile 938 948	Américaine
+T29	Gentile 954 963	Américain
+T30	Gentile 1223 1233	Françaises
+T31	Gentile 1241 1249	Français
+T32	Gentile 1278 1289	Américaines
+T33	Gentile 1297 1307	Américains
+A15	type T5 region
+A16	type T6 region

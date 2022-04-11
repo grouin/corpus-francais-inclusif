@@ -5,3 +5,5 @@ T4	Cp 188 193	75015
 T5	Ville 194 199	Paris
 T6	Inclusif 31 74	ancien-ne-s etudiant-e-s vice-president-e-s
 A1	procede T6 flexion
+T7	Fonction 43 55	etudiant-e-s
+T8	Fonction 56 74	vice-president-e-s

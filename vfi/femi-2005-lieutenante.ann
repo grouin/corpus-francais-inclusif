@@ -7,3 +7,7 @@ T6	Inclusif 151 172	lieutenante-colonelle
 T7	Inclusif 187 196	officière
 A1	procede T6 feminisation
 A2	procede T7 feminisation
+A3	role T2 autre
+A4	role T3 autre
+A5	role T4 autre
+T8	Fonction 17 39	ministre de la défense
