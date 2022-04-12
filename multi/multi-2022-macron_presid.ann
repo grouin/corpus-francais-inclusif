@@ -1,0 +1,75 @@
+T1	Profession 76 87	enseignants
+T2	Profession 206 220	enseignant·e·s
+T3	Profession 342 353	enseignants
+T4	Profession 357 369	enseignantes
+T5	Profession 562 572	infirmiers
+T6	Profession 578 593	aides-soignants
+T7	Profession 754 767	infirmier·e·s
+T8	Profession 773 791	aides-soignant·e·s
+T9	Profession 952 962	infirmiers
+T10	Profession 966 977	infirmières
+T11	Profession 983 998	aides-soignants
+T12	Profession 1002 1018	aides-soignantes
+T13	Profession 600 608	médecins
+T14	Profession 798 806	médecins
+T15	Profession 1025 1033	médecins
+T16	Profession 1297 1307	infirmiers
+T17	Profession 1311 1326	aides-soignants
+T18	Profession 1404 1417	infirmier·e·s
+T19	Profession 1421 1439	aides-soignant·e·s
+T20	Profession 1517 1527	infirmiers
+T21	Profession 1531 1542	infirmières
+T22	Profession 1546 1561	aides-soignants
+T23	Profession 1565 1581	aides-soignantes
+T24	Profession 3139 3149	magistrats
+T25	Profession 3292 3305	magistrat·e·s
+T26	Profession 3448 3458	magistrats
+T27	Profession 3462 3473	magistrates
+T28	Personne 1654 1660	Macron
+T29	Personne 1770 1776	Macron
+T30	Personne 1889 1895	Macron
+T31	Age 2322 2328	65 ans
+T32	Gentile 2504 2513	française
+T33	Gentile 2648 2657	française
+T34	Gentile 2798 2807	française
+T35	Organisation 2961 2969	Schengen
+A1	role T28 autre
+A2	role T29 autre
+A3	role T30 autre
+T36	Date 3189 3193	2027
+T37	Date 3345 3349	2027
+T38	Date 3513 3517	2027
+T39	Date 3729 3733	2030
+T40	Inclusif 206 235	enseignant·e·s revalorisé·e·s
+A4	procede T40 flexion
+T41	Inclusif 338 369	Des enseignants et enseignantes
+A5	procede T41 coordination
+T42	Inclusif 754 767	infirmier·e·s
+A6	procede T42 flexion
+T43	Inclusif 773 791	aides-soignant·e·s
+A7	procede T43 flexion
+T44	Inclusif 950 977	d'infirmiers et infirmières
+A8	procede T44 coordination
+T45	Inclusif 981 1018	d'aides-soignants et aides-soignantes
+A9	procede T45 coordination
+T46	Inclusif 1404 1417	infirmier·e·s
+A10	procede T46 flexion
+T47	Inclusif 1421 1439	aides-soignant·e·s
+A11	procede T47 flexion
+T48	Inclusif 1517 1542	infirmiers et infirmières
+A12	procede T48 coordination
+T49	Inclusif 1546 1581	aides-soignants et aides-soignantes
+A13	procede T49 coordination
+T50	Inclusif 1809 1824	indépendant·e·s
+A14	procede T50 flexion
+T51	Inclusif 1924 1957	les indépendants et indépendantes
+A15	procede T51 coordination
+T52	Inclusif 2614 2622	tou·te·s
+A16	procede T52 flexion
+T53	Inclusif 2758 2772	tous et toutes
+A17	procede T53 coordination
+T54	Gentile 2853 2864	européennes
+T55	Inclusif 3292 3305	magistrat·e·s
+A18	procede T55 flexion
+T56	Inclusif 3448 3473	magistrats et magistrates
+A19	procede T56 coordination
