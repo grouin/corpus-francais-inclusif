@@ -25,3 +25,8 @@ Both corpora are annotated into:
 
 Files are available in two formats: txt/ann files for BRAT, tag files
 (embedded annotations).
+
+## Reference ##
+
+Cyril Grouin (2022). Impact du français inclusif sur les outils du
+TAL. In: Actes de TALN, Avignon, France.
