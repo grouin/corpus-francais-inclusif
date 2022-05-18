@@ -1,1 +1,1 @@
-<Inclusif procede="neutralisation">Touz</Inclusif> les <Inclusif procede="neutralisation">députæs</Inclusif> et <Inclusif procede="neutralisation">sénataires</Inclusif> ont abouti à un accord de principe sur le pass vaccinal
+<Inclusif>Touz</Inclusif> les <Inclusif><Fonction>députæs</Fonction></Inclusif> et <Fonction><Inclusif>sénataires</Inclusif></Fonction> ont abouti à un accord de principe sur le pass vaccinal

@@ -1,1 +1,1 @@
-Je serai la Présidente de la réconciliation. Je respecterai <Inclusif procede="coordination">chacune et chacun</Inclusif> d'entre vous. Je serai Présidente pour tous les Français.
+Je serai la <Fonction>Présidente</Fonction> de la réconciliation. Je respecterai <Inclusif>chacune et chacun</Inclusif> d'entre vous. Je serai <Fonction>Présidente</Fonction> pour tous les <Gentile>Français</Gentile>.

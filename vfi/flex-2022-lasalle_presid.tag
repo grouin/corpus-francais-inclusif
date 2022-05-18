@@ -1,1 +1,1 @@
-Recruter 100 000 <Inclusif procede="flexion">infirmier·e·s</Inclusif> et <Inclusif procede="flexion">aides-soignant·e·s</Inclusif> sur la durée de mon mandat.
+Recruter 100 000 <Profession><Inclusif>infirmier·e·s</Inclusif></Profession> et <Profession><Inclusif>aides-soignant·e·s</Inclusif></Profession> sur la durée de mon mandat.

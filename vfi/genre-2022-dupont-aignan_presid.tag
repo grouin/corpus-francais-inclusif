@@ -1,1 +1,1 @@
-Doublement du nombre de <Exclusif procede="genre">médecins</Exclusif> et <Exclusif procede="genre">infirmières scolaires</Exclusif>.
+Doublement du nombre de <Exclusif><Profession>médecins</Profession></Exclusif> et <Profession><Exclusif>infirmières scolaires</Exclusif></Profession>.

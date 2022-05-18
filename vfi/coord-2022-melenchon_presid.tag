@@ -1,1 +1,1 @@
-<Inclusif procede="coordination">Madame, Monsieur</Inclusif>, <Inclusif procede="coordination">Citoyenne, Citoyen</Inclusif>, le système est à bout de souffle.
+<Inclusif>Madame, Monsieur</Inclusif>, <Inclusif>Citoyenne, Citoyen</Inclusif>, le système est à bout de souffle.

@@ -1,0 +1,11 @@
+T1	Inclusif 49 57	leadeuse
+A1	procede T1 feminisation
+T2	Inclusif 188 202	sœurs de lutte
+A2	procede T2 feminisation
+#1	AnnotatorNotes T1	féminisation (leadeuse) d'un anglicisme (leader) francisé (leadeur)
+#2	AnnotatorNotes T2	féminisation de l'expression "frères de lutte"
+T3	Personne 36 47	Rachel Kéké
+A3	role T3 autre
+T4	Ville 228 233	Paris
+T5	Organisation 208 212	Ibis
+T6	Lieu 213 224	Batignolles
