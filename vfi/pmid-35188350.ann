@@ -1,0 +1,14 @@
+T1	Inclusif 75 85	patient·es
+A1	procede T1 flexion
+T2	Profession 144 157	clinicien·nes
+T3	Inclusif 144 157	clinicien·nes
+A2	procede T3 flexion
+T4	Inclusif 253 263	soignant·e
+A3	procede T4 flexion
+T5	Inclusif 264 272	soigné·e
+A4	procede T5 flexion
+T6	Inclusif 444 455	étudiant·es
+A5	procede T6 flexion
+T7	Profession 444 467	étudiant·es en médecine
+T8	Profession 253 263	soignant·e
+T9	Profession 624 651	médecins de premier recours

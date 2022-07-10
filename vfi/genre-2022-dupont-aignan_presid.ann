@@ -1,5 +1,5 @@
-T1	Exclusif 24 32	médecins
-T2	Exclusif 36 57	infirmières scolaires
+T1	Standard 24 32	médecins
+T2	Standard 36 57	infirmières scolaires
 A1	procede T1 genre
 A2	procede T2 genre
 #1	AnnotatorNotes T1	médecin masculin

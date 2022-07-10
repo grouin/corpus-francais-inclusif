@@ -1,0 +1,16 @@
+T1	Date 36 40	2021
+T2	Inclusif 109 120	patient·e·s
+A1	procede T2 flexion
+T3	Traitement 207 221	télémonitoring
+T4	Inclusif 407 418	patient·e·s
+A2	procede T4 flexion
+T5	Traitement 595 620	traitement antidépresseur
+T6	Inclusif 700 711	patient·e·s
+A3	procede T6 flexion
+T7	Profession 352 379	médecins de premier recours
+T8	Pathologie 428 452	stéatopathie métabolique
+T9	Sosy 562 579	épisode dépressif
+T10	Pathologie 754 759	tabac
+#1	AnnotatorNotes T10	tabagisme
+T11	Inclusif 273 281	personne
+A4	procede T11 epicene

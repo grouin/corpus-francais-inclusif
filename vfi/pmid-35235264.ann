@@ -1,0 +1,6 @@
+T1	Pathologie 42 52	SARS-CoV-2
+T2	Organisation 697 732	Centre de traçage du canton de Vaud
+T3	Inclusif 15 24	personnes
+A1	procede T3 epicene
+T4	Inclusif 130 139	individus
+A2	procede T4 epicene

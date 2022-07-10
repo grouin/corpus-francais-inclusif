@@ -1,0 +1,7 @@
+T1	Profession 31 53	psychiatres de liaison
+T2	Inclusif 502 514	clinicien·ne
+A1	procede T2 flexion
+T3	Profession 502 514	clinicien·ne
+T4	Profession 736 748	clinicien·ne
+T5	Inclusif 736 748	clinicien·ne
+A2	procede T5 flexion

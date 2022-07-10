@@ -1,0 +1,20 @@
+T1	Personne 254 267	André Poutrel
+A1	role T1 autre
+T2	Personne 274 285	petit Peter
+A2	role T2 autre
+T3	Personne 290 301	petit Peter
+A3	role T3 autre
+T4	Personne 336 344	Margaret
+A4	role T4 autre
+T5	Personne 370 375	Peter
+A5	role T5 autre
+T6	Adresse 503 512	rue Bleue
+T7	Adresse 688 697	rue Bleue
+T8	Personne 644 658	Maurice Braive
+A6	role T8 autre
+T9	Inclusif 59 73	celles et ceux
+T10	Inclusif 482 496	celles et ceux
+T11	Inclusif 667 681	celles et ceux
+A7	procede T9 coordination
+A8	procede T10 coordination
+A9	procede T11 coordination

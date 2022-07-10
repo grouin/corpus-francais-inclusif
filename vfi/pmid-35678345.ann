@@ -1,0 +1,15 @@
+T1	Inclusif 53 64	patient-e-s
+A1	procede T1 flexion
+T2	Inclusif 348 359	patient-e-s
+A2	procede T2 flexion
+T3	Inclusif 794 805	patient-e-s
+A3	procede T3 flexion
+T4	Pathologie 508 513	tabac
+#1	AnnotatorNotes T4	tabagisme
+T5	Inclusif 402 418	professionnel-le
+A4	procede T5 flexion
+T6	Inclusif 396 401	le-la
+A5	procede T6 coordination
+T7	Profession 402 427	professionnel-le de santé
+T8	Organisation 452 460	Unisanté
+T9	Profession 623 631	médecins

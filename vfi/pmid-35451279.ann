@@ -1,0 +1,7 @@
+T1	Inclusif 650 680	patient-e-x-s adolescent-e-x-s
+A1	procede T1 flexion
+T2	Inclusif 92 104	individu-e-x
+A2	procede T2 flexion
+T3	Profession 550 583	profes­sionnel-le-x-s de la santé
+T4	Inclusif 550 571	profes­sionnel-le-x-s
+A3	procede T3 flexion

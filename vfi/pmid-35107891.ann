@@ -1,0 +1,12 @@
+T1	Sosy 66 89	hypertension artérielle
+T2	Sosy 91 94	HTA
+T3	Sosy 231 234	HTA
+T4	Inclusif 303 314	patient·e·s
+A1	procede T4 flexion
+T5	Standard 393 408	jeunes patients
+T6	Standard 513 521	patients
+T7	Age 533 539	60 ans
+T8	Traitement 586 613	traitement antihypertenseur
+T9	Inclusif 204 213	personnes
+A2	procede T9 epicene
+T10	Substance 784 793	potassium
