@@ -1,0 +1,11 @@
+T1	Pathologie 81 89	COVID-19
+T2	Organisation 188 212	Agence de la biomédecine
+T3	Date 216 225	mars 2020
+T4	Date 316 324	mai 2020
+T5	Pathologie 715 723	COVID-19
+T6	Pathologie 1016 1024	COVID-19
+T7	Pathologie 1060 1070	SARS-CoV-2
+T8	Pathologie 1219 1229	SARS-CoV-2
+T9	Inclusif 630 650	patient(e)s pris(es)
+A1	procede T9 flexion
+T10	Pathologie 418 428	SARS-CoV-2

@@ -1,0 +1,11 @@
+T1	Profession 129 144	infirmier-ère-s
+T2	Inclusif 129 144	infirmier-ère-s
+A1	procede T2 flexion
+T3	Inclusif 312 322	expert-e-s
+A2	procede T3 flexion
+T4	Inclusif 413 424	patient-e-s
+A3	procede T4 flexion
+T5	Organisation 707 729	Université de Lausanne
+T6	Lieu 870 878	Romandie
+T7	Inclusif 502 511	personnel
+A4	procede T7 epicene

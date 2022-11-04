@@ -1,0 +1,52 @@
+T1	Pathologie 21 31	SARS-CoV-2
+T2	Pays 183 188	Chine
+T3	Ville 209 214	Wuhan
+T4	Pays 232 238	Italie
+T5	Pays 243 249	France
+T6	Pays 255 262	Espagne
+T7	Date 270 274	mars
+T8	Pathologie 305 313	COVID-19
+T9	Standard 1060 1069	soignants
+T10	Standard 1133 1142	soignants
+T11	Standard 1330 1340	cliniciens
+T12	Pays 1646 1652	Italie
+T13	Standard 1717 1726	soignants
+T14	Standard 1946 1954	patients
+T15	Standard 2145 2180	médecins anesthésistes-réanimateurs
+T16	Standard 2184 2210	intensivistes-réanimateurs
+T17	Inclusif 2236 2268	infirmier(e)s diplômé(e)s d’état
+A1	procede T17 flexion
+T18	Inclusif 2270 2297	infirmier(e)s anesthésistes
+A2	procede T18 flexion
+T19	Standard 2301 2316	aides-soignants
+T20	Inclusif 2322 2335	infirmier(e)s
+A3	procede T20 flexion
+T21	Standard 2423 2435	sages-femmes
+T22	Inclusif 2443 2456	infirmier(e)s
+A4	procede T22 flexion
+T23	Standard 2498 2506	médecins
+T24	Standard 2577 2585	patients
+T25	Ville 2752 2760	Mulhouse
+T26	Substance 3531 3540	lopinavir
+T27	Substance 3541 3550	ritonavir
+T28	Substance 3556 3574	hydroxychloroquine
+T29	Pays 3929 3935	France
+T30	Standard 4322 4331	soignants
+T31	Pays 4249 4255	France
+T32	Profession 1060 1069	soignants
+T33	Profession 1330 1340	cliniciens
+T34	Profession 1133 1142	soignants
+T35	Profession 1717 1726	soignants
+T36	Profession 2145 2180	médecins anesthésistes-réanimateurs
+T37	Profession 2184 2210	intensivistes-réanimateurs
+T38	Profession 2216 2224	internes
+T39	Profession 2236 2268	infirmier(e)s diplômé(e)s d’état
+T40	Profession 2301 2316	aides-soignants
+T41	Profession 2270 2297	infirmier(e)s anesthésistes
+T42	Profession 2322 2335	infirmier(e)s
+T43	Profession 2423 2435	sages-femmes
+T44	Profession 2443 2456	infirmier(e)s
+T45	Profession 2498 2506	médecins
+T46	Standard 3309 3317	médecins
+T47	Profession 3309 3317	médecins
+T48	Gentile 329 337	italiens

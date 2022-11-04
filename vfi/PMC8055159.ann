@@ -1,0 +1,36 @@
+T1	Pathologie 18 26	COVID-19
+T2	Date 303 310	17 juin
+T3	Date 317 332	17 juillet 2020
+T4	Standard 361 375	professionnels
+T5	Profession 427 452	infirmiers de réanimation
+T6	Standard 427 452	infirmiers de réanimation
+T7	Profession 454 478	infirmiers anesthésistes
+T8	Standard 454 478	infirmiers anesthésistes
+T9	Standard 480 509	infirmiers de bloc opératoire
+T10	Profession 480 509	infirmiers de bloc opératoire
+T11	Profession 513 528	cadres de santé
+T12	Sosy 669 676	anxiété
+T13	Sosy 684 694	dépression
+T14	Sosy 701 724	stress post-traumatique
+T15	Fonction 752 784	Infirmièr(e)s de bloc opératoire
+T16	Inclusif 752 765	Infirmièr(e)s
+A1	procede T16 flexion
+T17	Adresse 849 872	troubles psychologiques
+T18	Adresse 875 890	trouble anxieux
+T19	Adresse 911 928	trouble dépressif
+T20	Adresse 951 974	stress post-traumatique
+T21	Profession 999 1012	infirmier(e)s
+T22	Inclusif 999 1012	infirmier(e)s
+A2	procede T22 flexion
+T23	Adresse 1083 1098	trouble anxieux
+T24	Adresse 1107 1124	trouble dépressif
+T25	Adresse 1135 1158	stress post-traumatique
+T26	Adresse 1207 1228	trouble psychologique
+T27	Adresse 1361 1369	burn out
+T28	Adresse 1454 1477	troubles psychologiques
+T29	Adresse 151 174	troubles psychologiques
+T30	Profession 183 226	personnel soignant infirmier de réanimation
+T31	Inclusif 183 226	personnel soignant infirmier de réanimation
+A3	procede T31 epicene
+T32	Standard 814 820	celles
+T33	Examen 547 618	Hospital Anxiety and Depression Scale et l’Impact Event Scale Revisited

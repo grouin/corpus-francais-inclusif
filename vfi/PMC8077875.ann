@@ -1,0 +1,15 @@
+T1	Organisation 1 39	Cryos International Sperm and Egg Bank
+T2	Pays 86 96	États-Unis
+T3	Date 114 118	mars
+T4	Pathologie 216 226	Sars-CoV-2
+T5	Pathologie 452 460	Covid-19
+T6	Inclusif 345 356	patient(e)s
+A1	procede T6 flexion
+T7	Standard 504 512	patients
+T8	Pathologie 513 518	Covid
+T9	Standard 623 630	auteurs
+T10	Age 753 759	32 ans
+T11	Pathologie 781 786	Covid
+T12	Standard 871 883	participants
+#1	AnnotatorNotes T7	Correct, tous les patients sont masculins
+#2	AnnotatorNotes T12	Correct, tous les patients sont masculins

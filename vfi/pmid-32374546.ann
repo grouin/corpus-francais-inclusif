@@ -1,0 +1,22 @@
+T1	Pathologie 15 23	COVID-19
+T2	Organisation 503 543	Centre hospitalier universitaire vaudois
+T3	Organisation 545 549	CHUV
+T4	Pays 368 374	Suisse
+T5	Inclusif 327 338	patient·e·s
+A1	procede T5 flexion
+T6	Inclusif 104 127	patient·e·s atteint·e·s
+A2	procede T6 flexion
+T7	Inclusif 820 831	patient·e·s
+A3	procede T7 flexion
+T8	Inclusif 610 622	étudiant·e·s
+A4	procede T8 flexion
+T9	Pathologie 845 853	COVID-19
+T10	Inclusif 749 761	étudiant·e·s
+A5	procede T10 flexion
+T11	Inclusif 797 809	étudiant·e·s
+A6	procede T11 flexion
+T12	Inclusif 201 213	étudiant·e·s
+A7	procede T12 flexion
+T13	Inclusif 226 236	avancé·e·s
+A8	procede T13 flexion
+#1	AnnotatorNotes T13	adjectif qualificatif pour étudiant-e-s

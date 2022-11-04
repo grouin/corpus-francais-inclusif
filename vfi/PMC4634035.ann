@@ -1,0 +1,28 @@
+T1	Organisation 203 250	Centre Hospitalier Universitaire d'Antananarivo
+T2	Inclusif 492 508	Le/la patient(e)
+A1	procede T2 flexion
+T3	Inclusif 521 530	intubé(e)
+A2	procede T3 flexion
+T4	Inclusif 686 697	patient(e)s
+A3	procede T4 flexion
+T5	Inclusif 1115 1126	patient(e)s
+A4	procede T5 flexion
+T6	Organisation 1419 1466	Centre Hospitalier Universitaire d'Antananarivo
+T7	Standard 1539 1549	chirurgien
+T8	Profession 1539 1549	chirurgien
+T9	Substance 363 371	fentanyl
+T10	Traitement 284 299	thyroïdectomies
+T11	Traitement 727 737	anesthésie
+T12	Traitement 777 792	thyroïdectomies
+T13	Traitement 833 859	lobo-isthmectomies gauches
+T14	Traitement 881 907	lobo-isthmectomies droites
+T15	Traitement 927 942	thyroïdectomies
+T16	Pathologie 1004 1026	carcinomes thyroïdiens
+T17	Traitement 1167 1177	anesthésie
+T18	Traitement 1292 1306	thyroïdectomie
+T19	Traitement 1353 1370	anesthésie locale
+T20	Traitement 1389 1404	thyroïdectomies
+T21	Traitement 27 46	anesthésie générale
+T22	Traitement 105 125	anesthésie régionale
+T23	Traitement 134 151	anesthésie locale
+T24	Traitement 51 73	chirurgie thyroïdienne

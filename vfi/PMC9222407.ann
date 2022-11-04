@@ -1,0 +1,13 @@
+T1	Pathologie 74 82	COVID-19
+T2	Date 381 391	avril 2020
+T3	Inclusif 801 816	participant.e.s
+A1	procede T3 flexion
+T4	Adresse 1049 1057	déprimés
+T5	Adresse 1064 1071	anxieux
+T6	Adresse 1080 1091	intolérants
+T7	Adresse 1510 1516	stress
+T8	Inclusif 1541 1549	Le ou la
+A2	procede T8 coordination
+T9	Inclusif 1550 1560	partenaire
+A3	procede T9 epicene
+T10	Adresse 1613 1619	stress
