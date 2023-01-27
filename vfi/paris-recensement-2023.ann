@@ -1,0 +1,38 @@
+T1	Organisation 21 26	INSEE
+T2	Organisation 130 135	INSEE
+T3	Date 336 346	19 janvier
+T4	Date 353 368	25 février 2023
+T5	Date 320 324	2023
+T6	Profession 1723 1742	Secrétaire Générale
+T7	Organisation 2106 2111	Poste
+T8	Date 2207 2217	15 février
+T9	Organisation 1489 1494	INSEE
+T10	Gentile 103 113	parisienne
+T11	Inclusif 396 433	un.e agent.e recenseur.euse recruté.e
+A1	procede T11 flexion
+T12	Inclusif 475 481	muni.e
+A2	procede T12 flexion
+T13	Inclusif 585 607	agent.e recenseur.euse
+A3	procede T13 flexion
+T14	Inclusif 640 647	il.elle
+A4	procede T14 flexion
+T15	Inclusif 759 766	agent.e
+A5	procede T15 flexion
+T16	Inclusif 1104 1111	agent.e
+A6	procede T16 flexion
+T17	Inclusif 1270 1284	cet.te agent.e
+A7	procede T17 flexion
+T18	Inclusif 1308 1326	Il.elle est tenu.e
+A8	procede T18 flexion
+T19	Inclusif 1961 1982	agent.e recensur.euse
+A9	procede T19 flexion
+T20	Inclusif 2269 2296	un.e agent.e recenseur.euse
+A10	procede T20 flexion
+T21	Organisation 2460 2483	mairie d'arrondissement
+T22	Organisation 2321 2351	mairie de votre arrondissement
+T23	Organisation 441 471	mairie de votre arrondissement
+T24	Organisation 1904 1927	mairie d'arrondissement
+T25	Profession 401 423	agent.e recenseur.euse
+T26	Profession 585 607	agent.e recenseur.euse
+T27	Profession 1961 1982	agent.e recensur.euse
+T28	Profession 2274 2296	agent.e recenseur.euse

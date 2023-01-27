@@ -1,0 +1,47 @@
+T1	Personne 158 171	Sophie Brocas
+T2	Profession 173 180	préfète
+T3	Profession 182 192;193 201	secrétaire générale
+T5	Organisation 208 234	préfecture d'Île-de-France
+T4	Organisation 236 255	préfecture de Paris
+T6	Organisation 269 283	Amicale du Nid
+T7	Ville 286 291	Paris
+T8	Profession 316 336	travailleurs sociaux
+T9	Ville 479 488	Marseille
+T10	Ville 490 501	Montpellier
+T11	Ville 503 511	Toulouse
+T12	Ville 513 517	Lyon
+T13	Ville 519 527	Grenoble
+T14	Ville 529 534	Paris
+T15	Ville 536 542	Épinay
+T16	Ville 546 554	Colombes
+T17	Inclusif 563 573	salarié-es
+T18	Inclusif 575 606	travailleur-euse-s sociaux-ales
+T19	Inclusif 635 653	administratif-ve-s
+T20	Organisation 672 686	Amicale du Nid
+T21	Inclusif 1003 1042	acteur-ice-s politiques et sociaux-ales
+T22	Inclusif 1044 1059	formateur-ice-s
+T23	Inclusif 1061 1076	éducateur-ice-s
+T24	Inclusif 1078 1092	enseignant-e-s
+T25	Inclusif 1094 1125	travailleur-euse-s sociaux-ales
+T26	Inclusif 1127 1139	policier-e-s
+A1	procede T17 flexion
+A2	procede T18 flexion
+A3	procede T19 flexion
+A4	procede T21 flexion
+A5	procede T22 flexion
+A6	procede T23 flexion
+A7	procede T24 flexion
+A8	procede T25 flexion
+A9	procede T26 flexion
+T27	Profession 575 606	travailleur-euse-s sociaux-ales
+T28	Profession 608 620	psychologues
+T29	Profession 622 633	sociologues
+T30	Profession 635 653	administratif-ve-s
+T31	Profession 657 667	comptables
+T32	Profession 1003 1026	acteur-ice-s politiques
+T33	Profession 1003 1015;1030 1042	acteur-ice-s sociaux-ales
+T34	Profession 1044 1059	formateur-ice-s
+T35	Profession 1061 1076	éducateur-ice-s
+T36	Profession 1078 1092	enseignant-e-s
+T37	Profession 1094 1125	travailleur-euse-s sociaux-ales
+T38	Profession 1127 1139	policier-e-s
