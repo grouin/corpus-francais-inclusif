@@ -1,0 +1,34 @@
+T1	Personne 158 171	Sophie Brocas
+T2	Profession 173 180	préfète
+T3	Profession 182 192;193 201	secrétaire générale
+T4	Organisation 208 234	préfecture d'Île-de-France
+T5	Organisation 236 255	préfecture de Paris
+T6	Organisation 269 283	Amicale du Nid
+T7	Ville 286 291	Paris
+T8	Profession 316 336	travailleurs sociaux
+T9	Ville 479 488	Marseille
+T10	Ville 490 501	Montpellier
+T11	Ville 503 511	Toulouse
+T12	Ville 513 517	Lyon
+T13	Ville 519 527	Grenoble
+T14	Ville 529 534	Paris
+T15	Ville 536 542	Épinay
+T16	Ville 546 554	Colombes
+T17	Standard 573 593	travailleurs sociaux
+T18	Standard 622 636	administratifs
+T19	Organisation 655 669	Amicale du Nid
+T20	Standard 316 336	travailleurs sociaux
+T21	Standard 986 1015	acteurs politiques et sociaux
+T22	Standard 1017 1027	formateurs
+T23	Standard 1029 1039	éducateurs
+T24	Standard 1041 1052	enseignants
+T25	Standard 1054 1074	travailleurs sociaux
+T26	Standard 1076 1085	policiers
+T27	Profession 1017 1027	formateurs
+T28	Profession 1029 1039	éducateurs
+T29	Profession 1041 1052	enseignants
+T30	Profession 1054 1074	travailleurs sociaux
+T31	Profession 1076 1085	policiers
+T32	Profession 1089 1110	personnels de justice
+T33	Profession 986 1004	acteurs politiques
+T34	Profession 1008 1015;986 993	sociaux acteurs
