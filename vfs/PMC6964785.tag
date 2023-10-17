@@ -1,0 +1,11 @@
+Objectif
+L’objectif était d’étudier le déploiement des discours sur la <Traitement>vaccination</Traitement> contre les <Pathologie>VPH</Pathologie> (<Traitement>VVPH</Traitement>) et leur impact sur les filles, les <Standard>parents</Standard>, les <Standard><Profession>infirmiers</Profession></Standard> et les <Standard>médecins canadiens</Standard>.
+
+Méthodes
+Des entrevues ont été réalisées avec des <Standard>participants</Standard> (n = 146) de quatre <Lieu>provinces canadiennes</Lieu>. Une analyse poststructuraliste du discours a permis d’examiner les campagnes de <Traitement>VVPH</Traitement> et les transcriptions d’entrevues pour documenter la façon dont les <Standard>participants</Standard> interprètent les <Traitement>VVPH</Traitement> et se positionnent comme sujets au sein des discours de l’industrie ou des agences de santé publique.
+
+Résultats
+Les campagnes de <Traitement>VVPH</Traitement> sont sexistes, hétéro-normatives et trompeuses. Émergeant de l’analyse des entrevues est le manque d’information des filles et des <Standard>parents</Standard> en ce qui a trait à la <Traitement>VVPH</Traitement>. Les mères se construisent en tant que bio-citoyennes responsables, mais au prix de l’impuissance, de l’<Sosy>anxiété</Sosy> et de la <Sosy>peur</Sosy> ressenties parallèlement à l’impératif d’agir pour minimiser le risque de <Pathologie>cancer</Pathologie> de leur fille. Quant aux <Standard>professionnels</Standard> de la santé, <Standard>ils</Standard> s’approprient les discours dominants sur la <Traitement>VVPH</Traitement> et utilisent la peur comme stratégie pour fabriquer le consentement pour la <Traitement>VVPH</Traitement>. Les occasions de dialogue sur la <Traitement>VVPH</Traitement> et la santé sexuelle des filles sont perdues et les positions en tant que sujets sont problématiques pour tous les types de <Standard>participant</Standard>.
+
+Conclusions
+Nous nous questionnons à savoir si la santé publique est bien servie quand les discours sur la <Traitement>VVPH</Traitement> transforment des corps en santé en corps « à risque » et quand la <Sosy>peur</Sosy> du <Pathologie>cancer</Pathologie> est instrumentalisée pour la pharmacologisation de la santé publique.

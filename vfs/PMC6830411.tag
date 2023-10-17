@@ -1,0 +1,1 @@
+Une représentation <Standard>des étudiants</Standard> dans toutes les disciplines de la réadaptation (p. ex., audiologie, ergothérapie, orthophonie) aurait été idéale, mais l’échelle <Examen>COREQ</Examen> ne fait pas actuellement partie de toutes les formations à la pratique factuelle, donc la majorité de ces <Standard>étudiants</Standard> ne connaissent pas cet outil.
