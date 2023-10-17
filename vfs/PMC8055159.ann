@@ -1,0 +1,32 @@
+T21	Standard 1065 1072	touchés
+T22	Sosy 1075 1090	trouble anxieux
+T24	Sosy 1099 1116	trouble dépressif
+T26	Sosy 1127 1150	stress post-traumatique
+T27	Sosy 1199 1220	trouble psychologique
+T28	Standard 1405 1418	professionnel
+T30	Sosy 1446 1469	troubles psychologiques
+T37	Sosy 151 174	troubles psychologiques
+T31	Standard 1541 1550	personnel
+T3	Pathologie 18 26	COVID-19
+T23	Standard 183 226	personnel soignant infirmier de réanimation
+T2	Date 303 310	17 juin
+T1	Date 317 332	17 juillet 2020
+T25	Standard 361 375	professionnels
+T18	Standard 427 452	infirmiers de réanimation
+T16	Standard 454 478	infirmiers anesthésistes
+T17	Profession 480 509	infirmiers de bloc opératoire
+T9	Profession 513 528	cadres de santé
+T4	Examen 547 618	Hospital Anxiety and Depression Scale et l’Impact Event Scale Revisited
+T7	Sosy 669 676	anxiété
+T11	Sosy 684 694	dépression
+T29	Sosy 701 724	stress post-traumatique
+T6	Profession 752 781	Infirmiers de bloc opératoire
+T8	Standard 811 815	ceux
+T13	Sosy 844 867	troubles psychologiques
+T10	Sosy 870 885	trouble anxieux
+T14	Sosy 906 923	trouble dépressif
+T15	Sosy 946 969	stress post-traumatique
+T20	Profession 994 1004	infirmiers
+T5	Standard 480 490	infirmiers
+T12	Standard 752 762	Infirmiers
+T19	Standard 994 1004	infirmiers

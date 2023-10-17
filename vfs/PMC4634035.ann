@@ -1,0 +1,26 @@
+T8	Traitement 105 125	anesthésie régionale
+T18	Standard 1103 1111	patients
+T19	Traitement 1277 1291	thyroïdectomie
+T7	Traitement 134 151	anesthésie locale
+T23	Traitement 1374 1389	thyroïdectomies
+T2	Organisation 1404 1451	Centre Hospitalier Universitaire d'Antananarivo
+T3	Standard 1521 1534	le chirurgien
+T12	Profession 1524 1534	chirurgien
+T1	Organisation 203 250	Centre Hospitalier Universitaire d'Antananarivo
+T6	Traitement 27 46	anesthésie générale
+T20	Traitement 284 299	thyroïdectomies
+T13	Substance 363 371	fentanyl
+T16	Standard 492 502	Le patient
+T10	Traitement 51 73	chirurgie thyroïdienne
+T11	Traitement 605 627	chirurgie thyroïdienne
+T17	Standard 677 685	patients
+T21	Traitement 765 780	thyroïdectomies
+T15	Traitement 821 847	lobo-isthmectomies gauches
+T14	Traitement 869 895	lobo-isthmectomies droites
+T22	Traitement 915 930	thyroïdectomies
+T9	Pathologie 992 1014	carcinomes thyroïdiens
+T4	Substance 453 462	lidocaïne
+T5	Mode 387 400	intraveineuse
+T24	Mode 437 449	sous-cutanée
+T25	Anatomie 561 576	cavités nasales
+T26	Anatomie 1557 1579	nerf laryngé inférieur

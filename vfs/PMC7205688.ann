@@ -1,0 +1,53 @@
+T37	Profession 1060 1069	soignants
+T38	Profession 1133 1142	soignants
+T14	Profession 1330 1340	cliniciens
+T34	Standard 1498 1512	professionnels
+T8	Pays 1646 1652	Italie
+T39	Profession 1717 1726	soignants
+T2	Pays 183 188	Chine
+T31	Standard 1887 1895	patients
+T32	Standard 1946 1954	patients
+T11	Ville 209 214	Wuhan
+T10	Pathologie 21 31	SARS-CoV-2
+T30	Profession 2145 2180	médecins anesthésistes-réanimateurs
+T22	Profession 2184 2210	intensivistes-réanimateurs
+T23	Profession 2216 2224	internes
+T16	Profession 2236 2246	infirmiers
+T20	Standard 2264 2288	infirmiers anesthésistes
+T12	Profession 2292 2307	aides-soignants
+T21	Profession 2313 2342	infirmiers de bloc opératoire
+T7	Pays 232 238	Italie
+T36	Profession 2411 2423	sages-femmes
+T4	Pays 243 249	France
+T19	Profession 2431 2441	infirmiers
+T28	Profession 2483 2491	médecins
+T3	Pays 255 262	Espagne
+T33	Standard 2562 2570	patients
+T26	Date 270 274	mars
+T9	Ville 2737 2745	Mulhouse
+T49	Standard 2834 2853	tous ces personnels
+T1	Pathologie 305 313	COVID-19
+T50	Standard 3149 3156	experts
+T51	Standard 3207 3216	confrères
+T17	Standard 319 337	collègues italiens
+T29	Profession 3294 3302	médecins
+T25	Substance 3516 3525	lopinavir
+T35	Substance 3526 3535	ritonavir
+T15	Substance 3541 3559	hydroxychloroquine
+T55	Standard 3748 3763	le grand public
+T41	Profession 3887 3896	soignants
+T5	Pays 3914 3920	France
+T6	Pays 4234 4240	France
+T13	Traitement 429 439	anesthésie
+T54	Sosy 4294 4299	peurs
+T42	Profession 4307 4316	soignants
+T18	Traitement 440 451	réanimation
+T56	Standard 4603 4608	héros
+T57	Standard 4612 4619	forçats
+T24	Standard 2236 2246	infirmiers
+T27	Standard 2292 2307	aides-soignants
+T40	Standard 2313 2323	infirmiers
+T43	Standard 2431 2441	infirmiers
+T44	Standard 2411 2423	sages-femmes
+T45	Standard 3887 3896	soignants
+T46	Standard 4307 4316	soignants
