@@ -1,0 +1,3 @@
+Nous porterons la voix des sans voix, la voix <Inclusif procede="coordination">des femmes et des hommes</Inclusif> qui n'arrivent pas à se loger, à se nourrir ou à vivre dignement de leur travail en <Lieu>Europe</Lieu>.
+
+Remplacer la Politique Agricole Commune (PAC) par une Politique Agricole et Alimentaire Commune (PAAC) qui permettra aux <Profession><Standard>agriculteurs</Standard></Profession> de vivre dignement de leur travail en les protégeant de la concurrence déloyale, tout en accélérant la transition vers l'agroécologie et en garantissant l'accès <Inclusif procede="coordination">de toutes et tous</Inclusif> à une alimentation saine.

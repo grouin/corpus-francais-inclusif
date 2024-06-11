@@ -1,0 +1,29 @@
+T1	Inclusif 0 27	Travailleuses, travailleurs
+A1	procede T1 coordination
+T2	Standard 45 53	ouvriers
+T3	Standard 55 65	caissières
+T4	Standard 67 75	employés
+T5	Standard 77 88	techniciens
+T6	Standard 108 116	artisans
+T7	Standard 125 136	producteurs
+T8	Standard 140 151	enseignants
+T9	Pays 227 234	Espagne
+T10	Pays 240 247	Pologne
+T11	Pays 255 260	Grèce
+T12	Pays 265 271	Ilande
+T13	Standard 303 311	chômeurs
+T14	Standard 315 324	retraités
+T15	Organisation 387 403	Union européenne
+T16	Standard 432 444	travailleurs
+T17	Profession 45 53	ouvriers
+T18	Profession 55 65	caissières
+T19	Profession 67 75	employés
+T20	Profession 77 88	techniciens
+T21	Profession 90 106	aides à domicile
+T22	Profession 108 116	artisans
+T23	Profession 118 136	petits producteurs
+T24	Profession 140 151	enseignants
+T25	Profession 295 301	actifs
+T26	Profession 303 311	chômeurs
+T27	Profession 315 324	retraités
+T28	Profession 432 444	travailleurs

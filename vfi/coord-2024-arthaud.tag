@@ -1,0 +1,5 @@
+<Inclusif procede="coordination">Travailleuses, travailleurs</Inclusif>
+
+Que nous soyons <Standard><Profession>ouvriers</Profession></Standard>, <Profession><Standard>caissières</Standard></Profession>, <Profession><Standard>employés</Standard></Profession>, <Profession><Standard>techniciens</Standard></Profession>, <Profession>aides à domicile</Profession>, <Profession><Standard>artisans</Standard></Profession>, <Profession>petits <Standard>producteurs</Standard></Profession> ou <Profession><Standard>enseignants</Standard></Profession>, nous produisons les richesses et contribuons à faire vivre le pays.
+
+De l'<Pays>Espagne</Pays> à la <Pays>Pologne</Pays>, de la <Pays>Grèce</Pays> à l'<Pays>Ilande</Pays>, le monde du travail - <Profession>actifs</Profession>, <Profession><Standard>chômeurs</Standard></Profession> ou <Standard><Profession>retraités</Profession></Standard> - recule sous les coups d'une classe capitaliste rapace. Et l'<Organisation>Union européenne</Organisation> n'a pas amélioré la vie des <Profession><Standard>travailleurs</Standard></Profession>, ni renforcé l'amitié entre les peuples.

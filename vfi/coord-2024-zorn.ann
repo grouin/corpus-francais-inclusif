@@ -1,0 +1,11 @@
+T1	Inclusif 0 24	Ces hommes et ces femmes
+A1	procede T1 coordination
+T2	Inclusif 39 49	qualifiées
+#1	AnnotatorNotes T2	accord de proximité
+T3	Organisation 188 200	Parti Pirate
+T4	Standard 266 270	élus
+T5	Pays 295 301	France
+T6	Profession 237 251	parlementaires
+T7	Profession 253 262	ministres
+T8	Profession 266 277	élus locaux
+T9	Lieu 282 288	Europe

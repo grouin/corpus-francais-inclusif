@@ -1,0 +1,6 @@
+Nous sommes 81 <Standard><Profession>candidats</Profession></Standard> à l'image des millions de <Inclusif procede="coordination"><Profession>travailleuses</Profession> et <Profession>travailleurs</Profession></Inclusif>, <Profession><Standard>retraités</Standard></Profession>, avec ou sans emploi. Nous avons participé à bien des luttes. <Standard><Profession>Ouvriers</Profession></Standard>, <Profession><Standard>soignants</Standard></Profession>, <Profession><Standard>techniciens</Standard></Profession>, <Profession><Standard>cheminots</Standard></Profession>, <Profession><Standard>postiers</Standard></Profession>, <Profession><Standard>enseignants</Standard></Profession>, <Profession><Standard>étudiants</Standard></Profession>, nous faisons tourner la société, mais nous n'aurions pas voix au chapitre autrement que pour mettre un bulletin dans l'urne à l'occasion ?
+
+Nous sommes du côté des <Profession><Standard>travailleurs</Standard></Profession> et des jeunes du monde entier qui se mobilisent en solidarité avec les <Gentile>Palestinens</Gentile>.
+
+Contre les divisions au sein de la classe ouvrière : mêmes <Standard><Profession>patrons</Profession></Standard>, même combat !
+Pour l'ouverture des frontières, la liberté de circulation et d'installation, et la régularisation de <Standard>tous</Standard> les sans-papiers
